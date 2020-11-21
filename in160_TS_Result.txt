@@ -1,0 +1,9 @@
+ ****************************************************** 
+nombre d'offres = 1000
+nombre d'objets = 1000
+nombre Max d'Itérations = 200
+valeur du paramètre P = 2
+valeur du paramètre lampda = 6.0E-5
+offres gagnantes = 892 874 877 148 20 111 632 41 366 10 142 905 830 
+le temps d'exécution = 11.314 secondes
+le gain du vendeur = 61320.25390625

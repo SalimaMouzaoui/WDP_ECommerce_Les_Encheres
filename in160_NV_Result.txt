@@ -1,0 +1,6 @@
+ ****************************************************** 
+nombre d'offres = 1000
+nombre d'objets = 500
+offres gagnantes = 935 385 285 87 880 911 249 983 380 493 329 855 845 510 657 97 
+le temps d'exécution = 7.545 secondes
+le gain du vendeur = 63830.91796875

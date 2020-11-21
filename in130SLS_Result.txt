@@ -1,0 +1,104 @@
+ ****************************************************** 
+nom de Fichier = in130
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+411   896   963   879   414   573   964   672   868   109   956   645   502   961   527   520   2   
+Gain = 54897.094
+Temps de traitement = 14182.0
+ ****************************************************** 
+nom de Fichier = in130
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+315   337   898   229   482   917   884   414   827   12   817   500   41   824   268   345   813   
+Gain = 58174.832
+Temps de traitement = 13610.0
+ ****************************************************** 
+nom de Fichier = in130
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+971   257   87   259   271   577   35   937   12   995   439   317   813   898   629   700   
+Gain = 58390.293
+Temps de traitement = 13524.0
+ ****************************************************** 
+nom de Fichier = in130
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+422   460   37   46   629   239   27   265   678   539   707   217   967   197   414   35   41   645   403   905   
+Gain = 57179.76
+Temps de traitement = 13698.0
+ ****************************************************** 
+nom de Fichier = in130
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+275   215   769   961   214   270   436   539   403   629   259   281   917   898   935   937   
+Gain = 57696.473
+Temps de traitement = 13471.0
+ ****************************************************** 
+nom de Fichier = in130
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+414   528   580   981   555   59   351   70   859   645   479   649   12   986   181   599   
+Gain = 58544.03
+Temps de traitement = 13538.0
+ ****************************************************** 
+nom de Fichier = in130
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+119   955   701   417   35   897   274   986   515   265   488   790   423   812   460   154   70   707   
+Gain = 56513.74
+Temps de traitement = 13601.0
+ ****************************************************** 
+nom de Fichier = in130
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+775   419   943   63   640   591   709   327   678   197   629   297   265   673   479   562   575   
+Gain = 54963.625
+Temps de traitement = 13592.0
+ ****************************************************** 
+nom de Fichier = in130
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+151   230   798   693   110   817   629   831   2   695   457   647   765   12   937   970   252   681   
+Gain = 59914.945
+Temps de traitement = 13902.0
+ ****************************************************** 
+nom de Fichier = in130
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+682   571   970   400   810   82   12   563   831   645   957   963   614   673   441   913   813   966   986   35   704   
+Gain = 55942.863
+Temps de traitement = 13796.0
+ ****************************************************** 
+nom de Fichier = in130
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+491   275   451   378   645   482   700   63   401   12   961   355   967   912   297   577   562   2   663   632   629   
+Gain = 57318.73
+Temps de traitement = 13774.0
+ ****************************************************** 
+nom de Fichier = in130
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+500   415   562   280   776   990   259   197   599   813   342   736   252   479   423   995   
+Gain = 56963.734
+Temps de traitement = 13369.0
+ ****************************************************** 
+nom de Fichier = in130
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+137   403   925   194   181   828   0   732   753   629   197   441   928   563   501   917   12   695   553   898   265   
+Gain = 57488.164
+Temps de traitement = 13705.0

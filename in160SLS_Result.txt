@@ -1,0 +1,144 @@
+ ****************************************************** 
+nom de Fichier = in160
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+303   631   348   194   863   830   784   103   384   840   781   716   811   142   708   
+Gain = 56690.227
+Temps de traitement = 13554.0
+ ****************************************************** 
+nom de Fichier = in160
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+876   500   201   857   429   626   381   285   934   288   366   886   380   249   595   410   
+Gain = 57055.094
+Temps de traitement = 13456.0
+ ****************************************************** 
+nom de Fichier = in160
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+154   368   441   52   606   256   985   305   546   913   419   30   785   322   726   579   662   366   200   905   380   765   
+Gain = 56776.414
+Temps de traitement = 14148.0
+ ****************************************************** 
+nom de Fichier = in160
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+410   627   679   510   380   42   230   983   101   99   911   662   353   904   322   683   494   
+Gain = 57398.34
+Temps de traitement = 13554.0
+ ****************************************************** 
+nom de Fichier = in160
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+415   81   668   844   940   613   111   979   546   101   493   911   198   97   441   662   
+Gain = 57969.934
+Temps de traitement = 13482.0
+ ****************************************************** 
+nom de Fichier = in160
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+419   353   853   875   960   972   582   285   649   945   733   381   142   380   167   429   
+Gain = 56208.754
+Temps de traitement = 13522.0
+ ****************************************************** 
+nom de Fichier = in160
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+773   534   167   637   934   380   384   701   579   494   785   441   985   768   845   381   685   932   209   94   
+Gain = 57452.375
+Temps de traitement = 13738.0
+ ****************************************************** 
+nom de Fichier = in160
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+589   433   733   316   429   866   726   768   945   441   366   564   595   380   845   910   263   101   952   723   494   249   
+Gain = 59347.67
+Temps de traitement = 14011.0
+ ****************************************************** 
+nom de Fichier = in160
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+132   330   341   793   423   148   632   945   951   733   546   366   866   985   518   726   111   
+Gain = 57578.22
+Temps de traitement = 13546.0
+ ****************************************************** 
+nom de Fichier = in160
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+187   375   12   995   208   913   489   52   785   24   200   905   639   749   111   985   380   
+Gain = 59322.6
+Temps de traitement = 13583.0
+ ****************************************************** 
+nom de Fichier = in160
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+558   934   783   723   381   288   494   384   94   133   672   730   97   681   601   82   951   985   725   
+Gain = 55471.96
+Temps de traitement = 14285.0
+ ****************************************************** 
+nom de Fichier = in160
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+646   144   494   302   569   225   510   834   441   316   101   390   106   94   606   736   662   945   334   380   929   30   263   
+Gain = 58283.816
+Temps de traitement = 14255.0
+ ****************************************************** 
+nom de Fichier = in160
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+346   610   572   518   125   294   510   22   9   197   515   929   658   256   951   378   494   985   971   661   
+Gain = 60975.87
+Temps de traitement = 13692.0
+ ****************************************************** 
+nom de Fichier = in160
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+220   308   785   784   951   494   368   595   419   855   125   861   672   515   518   230   830   366   
+Gain = 57119.77
+Temps de traitement = 13725.0
+ ****************************************************** 
+nom de Fichier = in160
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+621   538   249   101   334   183   886   384   278   356   518   126   683   739   845   322   175   913   
+Gain = 59187.71
+Temps de traitement = 13683.0
+ ****************************************************** 
+nom de Fichier = in160
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+684   892   274   94   658   225   30   945   103   230   568   683   494   672   473   10   
+Gain = 60418.246
+Temps de traitement = 13530.0
+ ****************************************************** 
+nom de Fichier = in160
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+762   446   649   771   101   380   84   674   178   716   494   657   768   672   847   595   125   
+Gain = 56798.5
+Temps de traitement = 13671.0
+ ****************************************************** 
+nom de Fichier = in160
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+969   406   84   826   94   986   830   733   951   961   366   250   272   564   494   
+Gain = 55927.902
+Temps de traitement = 13540.0

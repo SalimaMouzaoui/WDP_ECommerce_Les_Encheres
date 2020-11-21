@@ -1,0 +1,80 @@
+ ****************************************************** 
+nom de Fichier = in170
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+165   234   215   937   395   227   941   554   859   977   490   327   502   572   585   515   748   522   813   513   
+Gain = 58537.137
+Temps de traitement = 13985.0
+ ****************************************************** 
+nom de Fichier = in170
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+953   222   128   266   702   748   497   522   227   749   23   770   78   366   275   859   553   813   234   401   
+Gain = 57750.07
+Temps de traitement = 13875.0
+ ****************************************************** 
+nom de Fichier = in170
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+68   734   99   279   694   258   415   553   690   327   777   460   502   639   813   666   366   934   932   
+Gain = 57452.848
+Temps de traitement = 13719.0
+ ****************************************************** 
+nom de Fichier = in170
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+993   72   768   921   302   278   777   456   497   875   501   836   63   23   513   304   859   770   273   
+Gain = 60140.656
+Temps de traitement = 13722.0
+ ****************************************************** 
+nom de Fichier = in170
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+135   857   94   275   586   8   619   130   500   749   547   932   327   991   403   23   941   78   215   813   258   
+Gain = 62399.344
+Temps de traitement = 13782.0
+ ****************************************************** 
+nom de Fichier = in170
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+708   350   484   467   749   806   913   948   128   359   813   130   941   664   233   859   227   401   
+Gain = 60311.9
+Temps de traitement = 13648.0
+ ****************************************************** 
+nom de Fichier = in170
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+204   369   934   774   701   579   406   623   760   50   238   754   522   833   502   777   
+Gain = 61266.58
+Temps de traitement = 13536.0
+ ****************************************************** 
+nom de Fichier = in170
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+320   708   233   207   934   623   278   62   678   19   982   340   941   777   977   130   327   479   836   
+Gain = 58333.297
+Temps de traitement = 13831.0
+ ****************************************************** 
+nom de Fichier = in170
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+464   616   669   861   377   774   501   128   615   599   619   63   140   443   813   982   706   
+Gain = 59633.85
+Temps de traitement = 13611.0
+ ****************************************************** 
+nom de Fichier = in170
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+204   941   877   604   953   859   381   702   522   161   639   748   813   977   205   749   446   336   921   
+Gain = 58974.87
+Temps de traitement = 14262.0

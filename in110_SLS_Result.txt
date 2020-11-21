@@ -1,0 +1,8 @@
+ ****************************************************** 
+nombre d'offres = 1000
+nombre d'objets = 500
+nombre Max d'Itérations = 1000
+valeur de Walk Probability = 0.3
+offres gagnantes = 639 349 293 93 107 564 402 224 602 832 251 203 14 731 357 284 64 917 
+le temps d'exécution = 9.619 secondes
+le gain du vendeur = 43492.41015625

@@ -1,0 +1,168 @@
+ ****************************************************** 
+nom de Fichier = in180
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+275   755   832   725   439   983   726   412   705   462   474   70   615   854   533   232   822   622   668   
+Gain = 56899.82
+Temps de traitement = 13610.0
+ ****************************************************** 
+nom de Fichier = in180
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+95   394   954   955   222   708   70   402   706   61   805   6   337   314   753   431   524   473   
+Gain = 56068.797
+Temps de traitement = 13445.0
+ ****************************************************** 
+nom de Fichier = in180
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+350   389   337   902   43   402   156   765   470   36   976   355   270   71   692   614   283   757   954   221   42   
+Gain = 55511.22
+Temps de traitement = 13589.0
+ ****************************************************** 
+nom de Fichier = in180
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+493   777   668   25   902   233   270   485   467   987   799   708   899   690   344   532   283   3   131   337   
+Gain = 55560.43
+Temps de traitement = 13583.0
+ ****************************************************** 
+nom de Fichier = in180
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+925   965   339   342   622   381   753   333   682   489   148   323   891   692   488   106   615   524   681   448   
+Gain = 55753.08
+Temps de traitement = 13450.0
+ ****************************************************** 
+nom de Fichier = in180
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+490   718   277   733   532   467   167   109   533   314   131   149   106   578   309   177   413   
+Gain = 56722.7
+Temps de traitement = 13374.0
+ ****************************************************** 
+nom de Fichier = in180
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+717   777   902   633   337   461   314   4   923   706   413   157   246   517   596   818   641   776   84   381   
+Gain = 55823.48
+Temps de traitement = 13505.0
+ ****************************************************** 
+nom de Fichier = in180
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+579   266   3   979   568   889   473   177   524   705   865   668   84   287   891   748   564   822   6   232   808   
+Gain = 58550.89
+Temps de traitement = 13599.0
+ ****************************************************** 
+nom de Fichier = in180
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+178   678   690   753   223   177   309   524   411   295   70   23   131   596   902   381   84   710   3   446   
+Gain = 59658.605
+Temps de traitement = 13538.0
+ ****************************************************** 
+nom de Fichier = in180
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+433   567   76   878   80   654   476   990   84   934   524   830   411   884   412   606   
+Gain = 55740.85
+Temps de traitement = 13257.0
+ ****************************************************** 
+nom de Fichier = in180
+nombre d'objets = 500
+nombre d'offres = 1000
+ ****************************************************** 
+nom de Fichier = in180
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+586   550   457   191   299   268   227   174   356   944   894   283   377   185   167   3   
+Gain = 58564.688
+Temps de traitement = 13827.0
+voici l'allocation 
+441   521   191   396   4   69   622   422   30   565   473   765   351   633   84   954   177   808   283   
+Gain = 58758.22
+Temps de traitement = 14434.0
+ ****************************************************** 
+nom de Fichier = in180
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+830   493   428   467   891   485   268   994   533   84   668   735   883   524   606   887   822   337   
+Gain = 55311.895
+Temps de traitement = 13455.0
+ ****************************************************** 
+nom de Fichier = in180
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+462   177   239   413   414   337   137   145   705   485   348   309   889   606   270   131   3   26   70   84   
+Gain = 55892.652
+Temps de traitement = 13494.0
+ ****************************************************** 
+nom de Fichier = in180
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+140   792   80   929   287   725   925   994   753   817   84   52   681   207   337   246   633   232   891   
+Gain = 55247.285
+Temps de traitement = 13393.0
+ ****************************************************** 
+nom de Fichier = in180
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+984   824   471   719   0   246   994   905   3   15   413   412   448   25   356   270   540   84   725   287   
+Gain = 57706.33
+Temps de traitement = 13559.0
+ ****************************************************** 
+nom de Fichier = in180
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+386   569   579   633   822   615   711   84   4   457   524   606   994   808   218   26   540   9   596   220   533   759   
+Gain = 55680.79
+Temps de traitement = 13916.0
+ ****************************************************** 
+nom de Fichier = in180
+nombre d'objets =  ****************************************************** 
+500nom de Fichier = 
+nombre d'offres = 1000in180
+nombre d'objets = 500
+nombre d'offres = 
+1000
+voici l'allocation 
+41   647   990   221   475   339   765   987   933   753   944   705   80   337   633   4   131   287   
+Gain = 59090.24
+Temps de traitement = 14297.0
+voici l'allocation 
+537   954   148   4   246   596   381   987   668   149   80   524   13   905   84   887   314   223   715   633   
+Gain = 56036.08
+Temps de traitement = 14460.0
+ ****************************************************** 
+nom de Fichier = in180
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+636   459   44   8   850   818   944   381   413   84   356   261   167   615   596   448   691   333   412   227   
+Gain = 54409.605
+Temps de traitement = 13575.0
+ ****************************************************** 
+nom de Fichier = in180
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+448   994   791   339   222   286   753   309   343   504   337   725   174   474   287   246   402   69   954   690   
+Gain = 57968.527
+Temps de traitement = 13842.0

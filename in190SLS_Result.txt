@@ -1,0 +1,72 @@
+ ****************************************************** 
+nom de Fichier = in190
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+402   315   525   556   104   641   748   490   514   156   80   627   346   199   168   526   180   912   881   
+Gain = 60378.13
+Temps de traitement = 13212.0
+ ****************************************************** 
+nom de Fichier = in190
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+84   317   616   948   87   304   591   563   846   677   181   889   358   218   331   
+Gain = 59343.336
+Temps de traitement = 13321.0
+ ****************************************************** 
+nom de Fichier = in190
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+668   526   945   536   155   506   549   772   563   63   331   388   876   213   921   889   835   997   861   304   
+Gain = 60792.48
+Temps de traitement = 13754.0
+ ****************************************************** 
+nom de Fichier = in190
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+139   661   375   824   892   624   861   668   940   606   872   889   137   577   333   526   304   533   
+Gain = 58356.504
+Temps de traitement = 13858.0
+ ****************************************************** 
+nom de Fichier = in190
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+807   795   14   780   869   40   631   463   861   235   333   641   434   108   533   
+Gain = 58600.75
+Temps de traitement = 12850.0
+ ****************************************************** 
+nom de Fichier = in190
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+356   224   612   490   361   495   304   568   469   209   79   30   434   985   388   181   492   872   856   810   199   
+Gain = 59322.59
+Temps de traitement = 15544.0
+ ****************************************************** 
+nom de Fichier = in190
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+746   201   363   199   991   204   181   30   904   877   601   943   554   79   375   473   470   304   
+Gain = 58338.98
+Temps de traitement = 13012.0
+ ****************************************************** 
+nom de Fichier = in190
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+536   528   831   855   201   485   181   209   470   388   939   943   668   526   358   492   641   762   79   
+Gain = 65109.12
+Temps de traitement = 13094.0
+ ****************************************************** 
+nom de Fichier = in190
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+787   205   456   810   636   611   515   213   555   616   129   533   869   506   989   463   563   485   199   304   
+Gain = 63778.223
+Temps de traitement = 13488.0

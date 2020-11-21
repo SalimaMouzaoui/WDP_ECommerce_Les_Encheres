@@ -1,0 +1,72 @@
+ ****************************************************** 
+nom de Fichier = in101
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+994   775   486   
+Gain = 30814.504
+Temps de traitement = 13115.0
+ ****************************************************** 
+nom de Fichier = in101
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+468   937   17   807   946   771   994   
+Gain = 27618.398
+Temps de traitement = 12942.0
+ ****************************************************** 
+nom de Fichier = in101
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+775   994   900   
+Gain = 30818.75
+Temps de traitement = 13173.0
+ ****************************************************** 
+nom de Fichier = in101
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+369   994   775   
+Gain = 29700.3
+Temps de traitement = 13244.0
+ ****************************************************** 
+nom de Fichier = in101
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+315   994   486   188   
+Gain = 31272.355
+Temps de traitement = 12978.0
+ ****************************************************** 
+nom de Fichier = in101
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+413   994   775   
+Gain = 31138.855
+Temps de traitement = 14104.0
+ ****************************************************** 
+nom de Fichier = in101
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+688   917   828   265   252   810   422   358   116   296   514   714   741   581   557   773   872   971   945   626   7   
+Gain = 55615.316
+Temps de traitement = 14810.0
+ ****************************************************** 
+nom de Fichier = in101
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+249   64   896   358   521   172   134   627   486   200   426   266   330   960   333   369   399   581   
+Gain = 59496.184
+Temps de traitement = 13997.0
+ ****************************************************** 
+nom de Fichier = in101
+nombre d'objets = 500
+nombre d'offres = 1000
+voici l'allocation 
+618   716   266   950   486   32   772   662   468   285   298   736   492   334   333   848   5   615   
+Gain = 54541.68
+Temps de traitement = 13624.0
